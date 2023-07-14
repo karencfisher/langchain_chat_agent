@@ -1,5 +1,6 @@
-"""Class for a VectorStore-backed memory object.
-   Added path for return_messages parameter.
+"""Class for a VectorStore-backed memory object from langchain.
+   Added path for return_messages parameter. Adds return_messages
+   parameter and proper handling of that case to work with agent.
 """
 
 
